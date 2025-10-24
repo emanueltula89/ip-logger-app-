@@ -1,0 +1,5 @@
+# Ignore Google Cloud credentials
+ip-scan-476101-fcfb7c4ada39.json
+
+# Ignore IDE settings
+.idea/
